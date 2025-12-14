@@ -1,7 +1,7 @@
 - <h1>👋 Hi, I’m GOUTHAM </h1>
-  <h2>Business Analyst | Data & Process Analyst (Entry-Level)
+  Business Analyst | Data & Process Analyst (Entry-Level)
 
-I focus on understanding business problems, defining clear requirements, and delivering insights through data and dashboards. I bridge the gap between stakeholders and technical teams using structured documentation and analysis.<h2>
+I focus on understanding business problems, defining clear requirements, and delivering insights through data and dashboards. I bridge the gap between stakeholders and technical teams using structured documentation and analysis.
 @goutham-yadav
 - 👀 I’m interested in webdevelopment and creating new stuff, i am an person with  entrepreneur midset.
 - 🌱 I’m currently learning fullstack webdevelopment
